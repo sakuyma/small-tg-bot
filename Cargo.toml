@@ -1,0 +1,9 @@
+[package]
+name = "tg-bot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+ferogram = "0.6.5"
+tokio = "1.53.1"
